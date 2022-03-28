@@ -3,3 +3,4 @@
     * [Files](ptr1/files/index.md)
 * [PaRappa 2](ptr2/index.md)
     * [Files](ptr2/files/index.md)
+        * [INT](ptr2/files/int.md)
