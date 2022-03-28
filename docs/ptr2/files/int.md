@@ -35,3 +35,9 @@ It contains a list of 4-byte values. All the values except for Magic are little-
 | `14-17`  | Compressed Size | The size of the "content" data.                                                           |
 | `18-1b`  | Empty           |                                                                                           |
 | `1c-1f`  | Empty           |                                                                                           |
+
+
+## Implementations
+https://github.com/posesix/ptr2tools/blob/master/sources/ptr2int/ptr2int.cpp
+https://github.com/pahaze/pwf2tools-cpp/blob/master/execs/sources/pwf2int/pwf2int.cpp
+https://github.com/jmkd3v/ptr2tools-python/blob/main/ptr2tools/int.py (incomplete)
