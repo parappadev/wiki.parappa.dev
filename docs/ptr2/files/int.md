@@ -40,4 +40,4 @@ It contains a list of 4-byte values. All the values except for Magic are little-
 ## Implementations
 https://github.com/posesix/ptr2tools/blob/master/sources/ptr2int/ptr2int.cpp
 https://github.com/pahaze/pwf2tools-cpp/blob/master/execs/sources/pwf2int/pwf2int.cpp
-https://github.com/jmkd3v/ptr2tools-python/blob/main/ptr2tools/int.py (incomplete)
+https://github.com/jmkd3v/ptr2tools-python/blob/main/ptr2tools/int.py
